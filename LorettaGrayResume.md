@@ -13,7 +13,7 @@ Python | TensorFlow | SQL & NoSQL | Keras | SK Learn | Pandas | PyTorch | OpenCV
 
 ### 
 
-### **Graduate School Projects:**
+### **Graduate Projects:**
 
 **AI-related Projects:**
 
