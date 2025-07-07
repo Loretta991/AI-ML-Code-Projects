@@ -140,3 +140,7 @@ AskMyDocs-RAG provides:
 ---
 
 **"Tested. Mocked. Structured for Scale. Ready for GitHub."**
+## 📄 Resume
+
+[Download My Resume (PDF)](https://github.com/Loretta991/AI-ML-Code-Projects/blob/main/Loretta-Gray-Resume.pdf)
+
