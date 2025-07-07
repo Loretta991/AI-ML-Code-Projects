@@ -138,6 +138,7 @@ AskMyDocs-RAG provides:
 * Email: [ellegrey@ellegreyllc.com](mailto:ellegrey@ellegreyllc.com)
 
 ---
+![RAG Pipeline Diagram](AI-ML-Code-Projects/Image%20Files/Loretta_Gray_AI_RAG_Diagram.png)
 
 **"Tested. Mocked. Structured for Scale. Ready for GitHub."**
 ## 📄 Resume
