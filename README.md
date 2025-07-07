@@ -145,5 +145,4 @@ AskMyDocs-RAG provides:
 
 [Download My Resume (PDF)](https://github.com/Loretta991/AI-ML-Code-Projects/blob/main/Loretta-Gray-Resume.pdf)
 
-![RAG Diagram](AI-ML-Code-Projects/Image%20Files/Loretta_Gray_AI_RAG_Diagram.png)
 
