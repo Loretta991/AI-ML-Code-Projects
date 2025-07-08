@@ -148,3 +148,11 @@ AskMyDocs-RAG provides:
 ## 📊 AI RAG Pipeline
 
 [View RAG Diagram](https://github.com/Loretta991/AI-ML-Code-Projects/blob/main/AI-ML-Code-Projects/Image%20Files/Loretta_Gray_AI_RAG_Diagram.png)
+
+# RAG Developer Padlet
+
+Here’s the Padlet that can be used for education purposes:
+[View the Padlet](https://padlet.com/ellegrey/rag-developer-78x4u0i1i19t1xgt)
+
+Feel free to explore the resources available on this Padlet which is for educational content, suitable for schools and students.
+
