@@ -149,7 +149,7 @@ AskMyDocs-RAG provides:
 
 [View RAG Diagram](https://github.com/Loretta991/AI-ML-Code-Projects/blob/main/AI-ML-Code-Projects/Image%20Files/Loretta_Gray_AI_RAG_Diagram.png)
 
-## RAG Developer Padlet
+## RAG Developer Padlet for Education
 
 Here’s the Padlet version that can be used for education purposes:
 [View the Padlet](https://padlet.com/ellegrey/rag-developer-78x4u0i1i19t1xgt)
