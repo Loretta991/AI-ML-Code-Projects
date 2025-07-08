@@ -151,8 +151,8 @@ AskMyDocs-RAG provides:
 
 # RAG Developer Padlet
 
-Here’s the Padlet that can be used for education purposes:
+Here’s the Padlet version that can be used for education purposes:
 [View the Padlet](https://padlet.com/ellegrey/rag-developer-78x4u0i1i19t1xgt)
 
-Feel free to explore the resources available on this Padlet which is for educational content, suitable for schools and students.
+Future resources will be available on this Padlet which will be for educational content, suitable for schools and students.
 
