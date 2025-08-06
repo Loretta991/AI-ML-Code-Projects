@@ -1,4 +1,4 @@
-# Amazon Alexa Review Classification
+# Generative Facial Recognition AI
 
 ## 📘 Description
 _Add a short description of what the notebook does, what data it uses, and any goals of the analysis._
@@ -23,4 +23,4 @@ _Describe any charts, tables, or visual outputs produced._
 3. Run all cells sequentially
 
 ## 📂 Related Files
-- `Amazon_Alexa_Classification.ipynb`
+- `I_Generative_Facial_Recognition.ipynb`
